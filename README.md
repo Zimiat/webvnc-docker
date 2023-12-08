@@ -24,7 +24,7 @@ This Dockerfile sets up an Alpine Linux environment with XFCE, TigerVNC, and noV
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Zimiat/webvnc-docker.git
    cd your-repo
    ```
 
