@@ -79,9 +79,10 @@ This Dockerfile sets up an Alpine Linux environment with XFCE, TigerVNC, and noV
 
 - Exercise caution when deploying the container in production, ensuring adequate security measures are in place.
 
-### Author
+## Acknowledgments
 
-- **Maintainer:** Zimiat (yason.pr@gmail.com)
+- noVNC: [https://github.com/novnc/noVNC](https://github.com/novnc/noVNC)
+- TigerVNC: [https://github.com/TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc)
 
 ### License
 
