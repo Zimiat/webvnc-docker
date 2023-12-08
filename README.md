@@ -73,9 +73,6 @@ This Dockerfile sets up an Alpine Linux environment with XFCE, TigerVNC, and noV
 - **Additional Software:**
   - Extend the Dockerfile to include additional software or packages based on specific requirements.
 
-- **WebSocket Script:**
-  - Customize the WebSocket script in `/opt/noVNC/script.js` to handle received data according to your needs.
-
 ### Security Considerations
 
 - VNC access currently uses no authentication (`-Securitytypes=none`). Implement secure practices based on your deployment environment.
