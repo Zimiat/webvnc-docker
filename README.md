@@ -45,7 +45,7 @@ This Dockerfile sets up an Alpine Linux environment with XFCE, TigerVNC, and noV
    Connect using a regular VNC client to `localhost:5900`.
 
 4. **Access the Desktop Environment:**
-   Open a web browser and navigate to `http://localhost:6080`. Interact with the XFCE desktop environment through the web interface.
+   Open a web browser and navigate to `http://localhost:6080/vnc.html`. Interact with the XFCE desktop environment through the web interface.
 
 5. **Docker Compose:**
    Use the following `docker-compose.yml` file for simplified deployment:
