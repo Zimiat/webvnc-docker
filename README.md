@@ -38,7 +38,7 @@ This Dockerfile sets up an Alpine Linux environment with XFCE, TigerVNC, and noV
    docker run --rm -p 5900:5999 -p 6080:6080 webvnc
    ```
 
-   - Port 5900:5999 for VNC access.
+   - Port 5900 for VNC access.
    - Port 6080 for noVNC web-based access.
 
    **Join Through Regular VNC:**
